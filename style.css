@@ -1,0 +1,34 @@
+body{
+    background-color: pink;
+}
+.title{
+    font-family: "DynaPuff", system-ui;
+}
+.form-group{
+    font-family: "Nanum Gothic", sans-serif;
+ 
+}
+.othertitle{
+    font-family: "DynaPuff", system-ui;
+}
+.schedule{
+    font-family: "Nanum Gothic", sans-serif;
+}
+.btn{
+    background-color: rgb(255, 100, 126);
+    color: white;
+    border: 2px solid white;
+}
+.btn:hover{
+    box-shadow: 5px 5px 5px 4px rgba(126, 109, 109, 0.2);
+    color: white;
+}
+.form-control{
+    color: rgb(255, 100, 126);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid;
+}
+.table-striped{
+color: rgb(0, 0, 0);
+border: 8px double rgb(255, 100, 126);
+}
